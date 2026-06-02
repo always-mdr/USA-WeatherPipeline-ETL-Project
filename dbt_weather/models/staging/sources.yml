@@ -1,0 +1,7 @@
+version: 2
+sources:
+  - name: iceberg_warehouse
+    tables:
+      - name: weather_historical
+        meta:
+          external_location: "iceberg_scan('../data/iceberg_warehouse/weather/historical')"

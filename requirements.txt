@@ -1,0 +1,12 @@
+apache-airflow
+pyiceberg
+dbt-duckdb
+duckdb
+pandas
+pyarrow
+requests
+streamlit
+plotly
+openmeteo-requests
+requests-cache
+retry-requests
